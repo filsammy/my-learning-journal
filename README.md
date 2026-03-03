@@ -1,6 +1,18 @@
-# React + TypeScript + Vite
+# freeCodeCamp Full Stack Developer - Learning Journal & Lab
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is my personal journal and lab for learning and earning the Full Stack Developer certification at [freeCodeCamp.org](https://www.freecodecamp.org/).
+
+## Current Progress
+
+I usually jump between different topics. Right now, my focus is on:
+- **HTML**
+- **React Front-End Development Libraries**
+
+---
+
+## Local Development Setup (React + TypeScript + Vite)
+
+This project uses a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
